@@ -7,5 +7,4 @@ import net.minecraft.util.Identifier;
 
 public class MaxOriginsPowers {
   public static final PowerType<Power> TASTY = new PowerTypeReference(new Identifier("maxorigins", "tasty"));
-  public static final PowerType<Power> INFECTED = new PowerTypeReference(new Identifier("maxorigins", "infected"));
 }
